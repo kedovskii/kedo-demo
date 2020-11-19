@@ -1,2 +1,5 @@
 first string
 second string (web change)
+another string (git gui)
+
+wrong commit + try to fix
